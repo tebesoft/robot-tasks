@@ -1,4 +1,6 @@
+# Практика робот
 
+Подробнее читайте по ссылке: https://tebesoft.github.io/robot-tasks/
 
 
 ## how to commit files
